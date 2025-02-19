@@ -34,7 +34,7 @@ To run the SQL queries in this repository:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/sirmilltech/music-store-database.git
+   git clone https://github.com/sirmilltech/
    ```
 2. Set up a local SQLite, MySQL or PostgreSQL instance (or any SQL database of your choice).
 3. Import the provided SQL queries to create the schema and data in your database.
